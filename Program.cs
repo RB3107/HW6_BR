@@ -38,7 +38,7 @@ int[] ParseStringToArray(string input)
             substring = string.Empty;
         }
     }
-    If (input[input.Length - 1] != ',')
+    if (input[input.Length - 1] != ',');
         numbers[indexNumber] = Convert.ToInt32(substring);
     return numbers;
 }
