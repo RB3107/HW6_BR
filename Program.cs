@@ -12,7 +12,7 @@ Console.Write("Введите числа через запятую: ");
 	    }
 	}
 	Console.WriteLine();
-	Console.WriteLine($"количество значений больше 0 = {sum}");
+	Console.WriteLine($"Количество веденных чисел больше нуля -> {sum}");
 	
 
 	
@@ -69,4 +69,3 @@ Console.Write("Введите числа через запятую: ");
 	    }
 	    Console.Write("]");
 	}
-0б
