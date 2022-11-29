@@ -1,6 +1,6 @@
 ﻿//Задача 41: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
 
-Console.WriteLine("Введите числа через запятую: ");
+/*Console.WriteLine("Введите числа через запятую: ");
 string? input = Console.ReadLine();
 int[] numbers = ParseStringToArray(input);
 PrintArray(numbers);
@@ -66,5 +66,5 @@ void PrintArray(int[] array)
     {
         Console.Write(array[i] + " ");
     }
-}
+}*/
 
